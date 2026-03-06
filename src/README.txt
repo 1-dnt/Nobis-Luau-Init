@@ -1,0 +1,1 @@
+Please note that the Init.lua script will be created here, so I recommend that you do not delete the LuaNobis folder without first modifying the .py file.
